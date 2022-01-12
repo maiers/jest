@@ -81,7 +81,7 @@ You can try out this functionality by cloning the [snapshot example](https://git
 
 ### Interactive Snapshot Mode
 
-Failed snapshots can also be updated interactively in watch mode:
+Failed snapshots can also be updated interactively in [watch mode](https://jestjs.io/docs/cli#--watch) (`jest --watch`):
 
 ![](/img/content/interactiveSnapshot.png)
 
